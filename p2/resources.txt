@@ -1,0 +1,5 @@
+ChatGPT: used to solve the ^M character issue (see README.md for more detail)
+GeeksForGeeks: initial resource on xv6, general guideline for files to edit and what they do
+Shivaram and Remzi's Discussion videos: watched both in entirety
+Piazza: resolved many common errors
+Remzi's GitHub Link: https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/initial-xv6/background.md
